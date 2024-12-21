@@ -28,8 +28,8 @@ Make sure you have the following installed on your system:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/projectchat.git
-   cd projectchat
+   git clone https://github.com/BhoomiAgrawal12/ChatWeb.git
+   cd ChatWeb
    ```
 
 2. Install dependencies:
