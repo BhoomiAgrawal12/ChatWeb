@@ -81,5 +81,9 @@ Feel free to fork this repository and make your own improvements! Contributions 
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
+## Contact
 
+If you have any questions or suggestions, feel free to reach out:
+- **Email**: bhoomiagrawal1212@gmail.com
+- 
 Enjoy chatting with ChatWeb! 🎉
